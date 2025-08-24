@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://gobindaDB:testDBGobinda@qaconnector.6oawlps.mongodb.net/?retryWrites=true&w=majority&appName=QaConnector",
+    "jwtSecret": "mysecrettoken"
+}

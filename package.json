@@ -1,0 +1,28 @@
+{
+  "name": "qaconnector",
+  "version": "1.0.0",
+  "description": "Social network for QA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "gobinda",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "config": "^4.1.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.5",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "concurrently": "^9.2.0",
+    "nodemon": "^3.1.10",
+    "prettier": "3.6.2"
+  }
+}
