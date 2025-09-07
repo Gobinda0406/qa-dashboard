@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://gobindaDB:testDBGobinda@qaconnector.6oawlps.mongodb.net/?retryWrites=true&w=majority&appName=QaConnector",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"Ov23liks91h77NkfIXAu",
+    "githubSecret": "01dbf45cad15e5d7c72611f7fb29b9924a07aac9"
+
+}
